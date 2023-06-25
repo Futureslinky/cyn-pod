@@ -4,7 +4,7 @@ import aiohttp
 from termcolor import colored
 from discord.ext import commands, events
 
-token = "MTEyMjMxNTgxMDMwODg4NjYzMA.Gibq_T.t61d8GDtj3LcucnyllbeA306ug9zEA0cMgi6jM"
+token = 
 
 COGS = [
     'leaderboard',
